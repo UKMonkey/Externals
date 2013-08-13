@@ -1,0 +1,5 @@
+C:\code\trunk\Externals\SlimMath\bin\Debug\SlimMath.dll
+C:\code\trunk\Externals\SlimMath\bin\Debug\SlimMath.pdb
+C:\code\trunk\Externals\SlimMath\obj\Debug\ResolveAssemblyReference.cache
+C:\code\trunk\Externals\SlimMath\obj\Debug\SlimMath.dll
+C:\code\trunk\Externals\SlimMath\obj\Debug\SlimMath.pdb

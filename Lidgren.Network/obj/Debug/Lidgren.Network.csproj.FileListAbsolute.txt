@@ -1,0 +1,5 @@
+C:\code\trunk\Externals\Lidgren.Network\bin\Debug\Lidgren.Network.dll
+C:\code\trunk\Externals\Lidgren.Network\bin\Debug\Lidgren.Network.pdb
+C:\code\trunk\Externals\Lidgren.Network\obj\Debug\ResolveAssemblyReference.cache
+C:\code\trunk\Externals\Lidgren.Network\obj\Debug\Lidgren.Network.dll
+C:\code\trunk\Externals\Lidgren.Network\obj\Debug\Lidgren.Network.pdb
