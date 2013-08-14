@@ -1,5 +1,8 @@
-Lidgren.Network/bin
+Lidgren.Network/bin/
 Lidgren.Network/obj/
 OggDecoder/OggVorbisDecoder/obj/
 QuickFont/obj/
-SlimMath/obj/x86/Debug/SlimMath.csproj.FileListAbsolute.txt
+SlimMath/obj/
+SlimMath/bin/
+QuickFont/bin/
+OggDecoder/OggVorbisDecoder/bin/
