@@ -1,7 +1,0 @@
-C:\code\trunk\Externals\QuickFont\bin\Debug\QuickFont.dll
-C:\code\trunk\Externals\QuickFont\bin\Debug\QuickFont.pdb
-C:\code\trunk\Externals\QuickFont\bin\Debug\OpenTK.dll
-C:\code\trunk\Externals\QuickFont\bin\Debug\OpenTK.xml
-C:\code\trunk\Externals\QuickFont\obj\Debug\ResolveAssemblyReference.cache
-C:\code\trunk\Externals\QuickFont\obj\Debug\QuickFont.dll
-C:\code\trunk\Externals\QuickFont\obj\Debug\QuickFont.pdb
